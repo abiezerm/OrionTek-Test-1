@@ -1,0 +1,17 @@
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\bin\Debug\netcoreapp3.1\ClientDirectory.DataAccess.deps.json
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\bin\Debug\netcoreapp3.1\ClientDirectory.DataAccess.runtimeconfig.json
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\bin\Debug\netcoreapp3.1\ClientDirectory.DataAccess.runtimeconfig.dev.json
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\bin\Debug\netcoreapp3.1\ClientDirectory.DataAccess.dll
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\bin\Debug\netcoreapp3.1\ClientDirectory.DataAccess.pdb
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\bin\Debug\netcoreapp3.1\ClientDirectory.Common.dll
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\bin\Debug\netcoreapp3.1\ClientDirectory.Core.dll
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\bin\Debug\netcoreapp3.1\ClientDirectory.Common.pdb
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\bin\Debug\netcoreapp3.1\ClientDirectory.Core.pdb
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\obj\Debug\netcoreapp3.1\ClientDirectory.DataAccess.csprojAssemblyReference.cache
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\obj\Debug\netcoreapp3.1\ClientDirectory.DataAccess.AssemblyInfoInputs.cache
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\obj\Debug\netcoreapp3.1\ClientDirectory.DataAccess.AssemblyInfo.cs
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\obj\Debug\netcoreapp3.1\ClientDirectory.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\obj\Debug\netcoreapp3.1\ClientDirectory.DataAccess.csproj.CopyComplete
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\obj\Debug\netcoreapp3.1\ClientDirectory.DataAccess.dll
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\obj\Debug\netcoreapp3.1\ClientDirectory.DataAccess.pdb
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.DataAccess\obj\Debug\netcoreapp3.1\ClientDirectory.DataAccess.genruntimeconfig.cache

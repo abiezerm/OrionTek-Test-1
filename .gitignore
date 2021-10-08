@@ -1,0 +1,15 @@
+WebApp/node_modules
+
+API/ClientDirectory/.vs
+
+API/ClientDirectory/bin
+API/ClientDirectory/obj
+
+API/ClientDirectory.Common/bin
+API/ClientDirectory.Common/obj
+
+API/ClientDirectory.Core/bin
+API/ClientDirectory.Core/obj
+
+API/ClientDirectory.DataAccess/bin
+API/ClientDirectory.DataAccess/obj

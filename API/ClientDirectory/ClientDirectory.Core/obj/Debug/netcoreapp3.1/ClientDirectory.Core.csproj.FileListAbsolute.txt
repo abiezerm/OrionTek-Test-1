@@ -1,0 +1,9 @@
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.Core\bin\Debug\netcoreapp3.1\ClientDirectory.Core.deps.json
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.Core\bin\Debug\netcoreapp3.1\ClientDirectory.Core.dll
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.Core\bin\Debug\netcoreapp3.1\ClientDirectory.Core.pdb
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.Core\obj\Debug\netcoreapp3.1\ClientDirectory.Core.csprojAssemblyReference.cache
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.Core\obj\Debug\netcoreapp3.1\ClientDirectory.Core.AssemblyInfoInputs.cache
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.Core\obj\Debug\netcoreapp3.1\ClientDirectory.Core.AssemblyInfo.cs
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.Core\obj\Debug\netcoreapp3.1\ClientDirectory.Core.csproj.CoreCompileInputs.cache
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.Core\obj\Debug\netcoreapp3.1\ClientDirectory.Core.dll
+C:\Users\famil\Desktop\Software\oriontek test\API\ClientDirectory\ClientDirectory.Core\obj\Debug\netcoreapp3.1\ClientDirectory.Core.pdb

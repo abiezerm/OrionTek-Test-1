@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfuKofCWAUE4/pXhP4bM9BqVj6L+QFP7S8zgJFdw+i3TxBRN1/cOp9UPBnU6vlZr9DCJK9lUnp0rqv/cHdS8VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\famil\\Desktop\\Software\\oriontek test\\API\\ClientDirectory\\ClientDirectory.Common\\ClientDirectory.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
